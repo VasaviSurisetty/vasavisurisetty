@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hi, I'm Vasavi Surisetty  
+🚀 Technical Program Manager | Product Strategist | Data & AI Enthusiast  
+📍 Based in Bentonville, AR | 🌐 [LinkedIn](https://www.linkedin.com/in/your-link)
 
-<!--
-**VasaviSurisetty/vasavisurisetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💼 What I Do:
+- 🧠 Build data-driven products with AI/ML and cybersecurity focus
+- 🔗 Bridge the gap between tech & product: from vision → execution
+- 🌍 Advocate for user-first solutions that scale
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Technologies & Tools:
+`Python` `SQL` `Tableau` `Power BI` `AWS` `CI/CD`  
+`Agile | JIRA | Figma | Lucidchart`  
+`Machine Learning` `NLP` `Cybersecurity Platforms`
+
+---
+
+### 📊 Recent Highlights:
+- 🛡️ **Led AI-driven product enhancements at KnowBe4**, increasing phishing detection accuracy by 45%
+- 🤝 **Collaborated with deans across 10+ institutions** to launch Data Science certificates with NSF
+- 🧪 **Presented award-winning Data Science poster** at the DART 2024 competition
+
+---
+
+### 🔍 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vasavisurisetty&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vasavisurisetty&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📫 Get in Touch  
+📧 vsurisetty123@gmail.com  
+📎 [My Resume](#)  
